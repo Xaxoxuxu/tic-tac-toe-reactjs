@@ -1,5 +1,5 @@
 # Simple ReactJS Tic Tac Toe
-[Imgur](https://imgur.com/1ZSessp)
+[img]https://i.imgur.com/1ZSessp.png[/img]
 
 ## Available Scripts
 
