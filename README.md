@@ -1,3 +1,6 @@
+# Simple ReactJS Tic Tac Toe
+[Imgur](https://imgur.com/1ZSessp)
+
 ## Available Scripts
 
 In the project directory, you can run:
