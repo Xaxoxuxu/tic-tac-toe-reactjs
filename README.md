@@ -1,6 +1,8 @@
 # Simple ReactJS Tic Tac Toe
 ![Preview Image](https://i.imgur.com/1ZSessp.png)
 
+## Check it out at [CodePen](https://codepen.io/xaxoxuxu/pen/rNeKaYN)
+
 ## Available Scripts
 
 In the project directory, you can run:
